@@ -7,6 +7,8 @@ La clase DownloadThread debe tener:
 - Utiliza el método start() para iniciar los hilos y join() para asegurarte de que el programa espera a que todas las descargas terminen antes de mostrar el mensaje final: "Todas las descargas han finalizado".
 - Opcionalmente, añade un contador que calcule el tiempo total de descarga desde que comienza la primera descarga hasta que finaliza la última.
 
+- Añadiendo algo de informacion para probar git y los commits
+
  */
 package dam.start;
 
